@@ -30,7 +30,7 @@ function App() {
          
           display: "block",
 		  
-        }} alt="Scone O'Clock logo" /></a>
+        }} alt="scene@london" /></a>
 
 
 		<div className="labela">
